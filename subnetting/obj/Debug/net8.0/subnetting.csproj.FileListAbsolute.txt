@@ -1,0 +1,15 @@
+D:\Evil-C#\subnetting\bin\Debug\net8.0\subnetting.exe
+D:\Evil-C#\subnetting\bin\Debug\net8.0\subnetting.deps.json
+D:\Evil-C#\subnetting\bin\Debug\net8.0\subnetting.runtimeconfig.json
+D:\Evil-C#\subnetting\bin\Debug\net8.0\subnetting.dll
+D:\Evil-C#\subnetting\bin\Debug\net8.0\subnetting.pdb
+D:\Evil-C#\subnetting\obj\Debug\net8.0\subnetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evil-C#\subnetting\obj\Debug\net8.0\subnetting.AssemblyInfoInputs.cache
+D:\Evil-C#\subnetting\obj\Debug\net8.0\subnetting.AssemblyInfo.cs
+D:\Evil-C#\subnetting\obj\Debug\net8.0\subnetting.csproj.CoreCompileInputs.cache
+D:\Evil-C#\subnetting\obj\Debug\net8.0\subnetting.sourcelink.json
+D:\Evil-C#\subnetting\obj\Debug\net8.0\subnetting.dll
+D:\Evil-C#\subnetting\obj\Debug\net8.0\refint\subnetting.dll
+D:\Evil-C#\subnetting\obj\Debug\net8.0\subnetting.pdb
+D:\Evil-C#\subnetting\obj\Debug\net8.0\subnetting.genruntimeconfig.cache
+D:\Evil-C#\subnetting\obj\Debug\net8.0\ref\subnetting.dll
