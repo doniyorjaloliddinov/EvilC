@@ -1,0 +1,15 @@
+D:\Evil-C#\key-logger\bin\Debug\net8.0\key-logger.exe
+D:\Evil-C#\key-logger\bin\Debug\net8.0\key-logger.deps.json
+D:\Evil-C#\key-logger\bin\Debug\net8.0\key-logger.runtimeconfig.json
+D:\Evil-C#\key-logger\bin\Debug\net8.0\key-logger.dll
+D:\Evil-C#\key-logger\bin\Debug\net8.0\key-logger.pdb
+D:\Evil-C#\key-logger\obj\Debug\net8.0\key-logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evil-C#\key-logger\obj\Debug\net8.0\key-logger.AssemblyInfoInputs.cache
+D:\Evil-C#\key-logger\obj\Debug\net8.0\key-logger.AssemblyInfo.cs
+D:\Evil-C#\key-logger\obj\Debug\net8.0\key-logger.csproj.CoreCompileInputs.cache
+D:\Evil-C#\key-logger\obj\Debug\net8.0\key-logger.sourcelink.json
+D:\Evil-C#\key-logger\obj\Debug\net8.0\key-logger.dll
+D:\Evil-C#\key-logger\obj\Debug\net8.0\refint\key-logger.dll
+D:\Evil-C#\key-logger\obj\Debug\net8.0\key-logger.pdb
+D:\Evil-C#\key-logger\obj\Debug\net8.0\key-logger.genruntimeconfig.cache
+D:\Evil-C#\key-logger\obj\Debug\net8.0\ref\key-logger.dll
