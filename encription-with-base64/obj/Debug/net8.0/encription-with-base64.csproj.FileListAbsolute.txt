@@ -1,0 +1,15 @@
+D:\Evil-C#\encription-with-base64\bin\Debug\net8.0\encription-with-base64.exe
+D:\Evil-C#\encription-with-base64\bin\Debug\net8.0\encription-with-base64.deps.json
+D:\Evil-C#\encription-with-base64\bin\Debug\net8.0\encription-with-base64.runtimeconfig.json
+D:\Evil-C#\encription-with-base64\bin\Debug\net8.0\encription-with-base64.dll
+D:\Evil-C#\encription-with-base64\bin\Debug\net8.0\encription-with-base64.pdb
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\encription-with-base64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\encription-with-base64.AssemblyInfoInputs.cache
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\encription-with-base64.AssemblyInfo.cs
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\encription-with-base64.csproj.CoreCompileInputs.cache
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\encription-with-base64.sourcelink.json
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\encription-with-base64.dll
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\refint\encription-with-base64.dll
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\encription-with-base64.pdb
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\encription-with-base64.genruntimeconfig.cache
+D:\Evil-C#\encription-with-base64\obj\Debug\net8.0\ref\encription-with-base64.dll
