@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("key-logger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41fed3e6c34e17b121d8d906e3ef3dcc0e76c657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+891dc29d98473def6c6baafee0e20db926ffb916")]
 [assembly: System.Reflection.AssemblyProductAttribute("key-logger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("key-logger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
