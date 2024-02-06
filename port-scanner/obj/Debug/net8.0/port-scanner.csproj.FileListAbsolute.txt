@@ -1,0 +1,15 @@
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\port-scanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\port-scanner.AssemblyInfoInputs.cache
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\port-scanner.AssemblyInfo.cs
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\port-scanner.csproj.CoreCompileInputs.cache
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\port-scanner.sourcelink.json
+D:\Evil-C#\port-scanner\bin\Debug\net8.0\port-scanner.exe
+D:\Evil-C#\port-scanner\bin\Debug\net8.0\port-scanner.deps.json
+D:\Evil-C#\port-scanner\bin\Debug\net8.0\port-scanner.runtimeconfig.json
+D:\Evil-C#\port-scanner\bin\Debug\net8.0\port-scanner.dll
+D:\Evil-C#\port-scanner\bin\Debug\net8.0\port-scanner.pdb
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\port-scanner.dll
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\refint\port-scanner.dll
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\port-scanner.pdb
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\port-scanner.genruntimeconfig.cache
+D:\Evil-C#\port-scanner\obj\Debug\net8.0\ref\port-scanner.dll
