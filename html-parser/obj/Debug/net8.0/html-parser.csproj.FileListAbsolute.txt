@@ -1,0 +1,15 @@
+D:\Evil-C#\html-parser\bin\Debug\net8.0\html-parser.exe
+D:\Evil-C#\html-parser\bin\Debug\net8.0\html-parser.deps.json
+D:\Evil-C#\html-parser\bin\Debug\net8.0\html-parser.runtimeconfig.json
+D:\Evil-C#\html-parser\bin\Debug\net8.0\html-parser.dll
+D:\Evil-C#\html-parser\bin\Debug\net8.0\html-parser.pdb
+D:\Evil-C#\html-parser\obj\Debug\net8.0\html-parser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evil-C#\html-parser\obj\Debug\net8.0\html-parser.AssemblyInfoInputs.cache
+D:\Evil-C#\html-parser\obj\Debug\net8.0\html-parser.AssemblyInfo.cs
+D:\Evil-C#\html-parser\obj\Debug\net8.0\html-parser.csproj.CoreCompileInputs.cache
+D:\Evil-C#\html-parser\obj\Debug\net8.0\html-parser.sourcelink.json
+D:\Evil-C#\html-parser\obj\Debug\net8.0\html-parser.dll
+D:\Evil-C#\html-parser\obj\Debug\net8.0\refint\html-parser.dll
+D:\Evil-C#\html-parser\obj\Debug\net8.0\html-parser.pdb
+D:\Evil-C#\html-parser\obj\Debug\net8.0\html-parser.genruntimeconfig.cache
+D:\Evil-C#\html-parser\obj\Debug\net8.0\ref\html-parser.dll
