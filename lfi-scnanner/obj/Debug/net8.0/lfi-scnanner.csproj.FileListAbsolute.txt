@@ -1,0 +1,15 @@
+D:\Evil-C#\lfi-scnanner\bin\Debug\net8.0\lfi-scnanner.exe
+D:\Evil-C#\lfi-scnanner\bin\Debug\net8.0\lfi-scnanner.deps.json
+D:\Evil-C#\lfi-scnanner\bin\Debug\net8.0\lfi-scnanner.runtimeconfig.json
+D:\Evil-C#\lfi-scnanner\bin\Debug\net8.0\lfi-scnanner.dll
+D:\Evil-C#\lfi-scnanner\bin\Debug\net8.0\lfi-scnanner.pdb
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\lfi-scnanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\lfi-scnanner.AssemblyInfoInputs.cache
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\lfi-scnanner.AssemblyInfo.cs
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\lfi-scnanner.csproj.CoreCompileInputs.cache
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\lfi-scnanner.sourcelink.json
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\lfi-scnanner.dll
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\refint\lfi-scnanner.dll
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\lfi-scnanner.pdb
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\lfi-scnanner.genruntimeconfig.cache
+D:\Evil-C#\lfi-scnanner\obj\Debug\net8.0\ref\lfi-scnanner.dll

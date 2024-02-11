@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("encription-with-base64")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41fed3e6c34e17b121d8d906e3ef3dcc0e76c657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa008ddae756d65f44fe09096a3a29b0aeb592be")]
 [assembly: System.Reflection.AssemblyProductAttribute("encription-with-base64")]
 [assembly: System.Reflection.AssemblyTitleAttribute("encription-with-base64")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

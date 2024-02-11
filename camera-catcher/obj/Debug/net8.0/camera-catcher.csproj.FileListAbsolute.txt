@@ -1,0 +1,5 @@
+D:\Evil-C#\camera-catcher\obj\Debug\net8.0\camera-catcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evil-C#\camera-catcher\obj\Debug\net8.0\camera-catcher.AssemblyInfoInputs.cache
+D:\Evil-C#\camera-catcher\obj\Debug\net8.0\camera-catcher.AssemblyInfo.cs
+D:\Evil-C#\camera-catcher\obj\Debug\net8.0\camera-catcher.csproj.CoreCompileInputs.cache
+D:\Evil-C#\camera-catcher\obj\Debug\net8.0\camera-catcher.sourcelink.json
