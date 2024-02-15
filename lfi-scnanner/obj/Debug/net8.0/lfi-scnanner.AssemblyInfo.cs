@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lfi-scnanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa008ddae756d65f44fe09096a3a29b0aeb592be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ece9da92b6bfe04c11c25920f14ceacb3e134d19")]
 [assembly: System.Reflection.AssemblyProductAttribute("lfi-scnanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lfi-scnanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
