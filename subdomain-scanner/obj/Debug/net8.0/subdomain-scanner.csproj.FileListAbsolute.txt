@@ -1,0 +1,15 @@
+D:\Evil-C#\subdomain-scanner\bin\Debug\net8.0\subdomain-scanner.exe
+D:\Evil-C#\subdomain-scanner\bin\Debug\net8.0\subdomain-scanner.deps.json
+D:\Evil-C#\subdomain-scanner\bin\Debug\net8.0\subdomain-scanner.runtimeconfig.json
+D:\Evil-C#\subdomain-scanner\bin\Debug\net8.0\subdomain-scanner.dll
+D:\Evil-C#\subdomain-scanner\bin\Debug\net8.0\subdomain-scanner.pdb
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\subdomain-scanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\subdomain-scanner.AssemblyInfoInputs.cache
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\subdomain-scanner.AssemblyInfo.cs
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\subdomain-scanner.csproj.CoreCompileInputs.cache
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\subdomain-scanner.sourcelink.json
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\subdomain-scanner.dll
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\refint\subdomain-scanner.dll
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\subdomain-scanner.pdb
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\subdomain-scanner.genruntimeconfig.cache
+D:\Evil-C#\subdomain-scanner\obj\Debug\net8.0\ref\subdomain-scanner.dll

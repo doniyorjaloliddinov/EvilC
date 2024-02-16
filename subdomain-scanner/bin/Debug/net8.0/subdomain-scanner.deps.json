@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "subdomain-scanner/1.0.0": {
+        "runtime": {
+          "subdomain-scanner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "subdomain-scanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
